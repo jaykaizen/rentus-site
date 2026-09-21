@@ -1,0 +1,13 @@
+{
+  "updatedAt": "2026-09-20T00:00:00Z",
+  "state": "ok",
+  "summary": "Rent collection, payouts and both apps are working normally.",
+  "components": [
+    { "name": "Rent collection (M-Pesa)", "state": "ok" },
+    { "name": "Landlord payouts", "state": "ok" },
+    { "name": "Card payments", "state": "ok" },
+    { "name": "Web app", "state": "ok" },
+    { "name": "Tenant app", "state": "ok" }
+  ],
+  "updates": []
+}
